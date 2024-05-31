@@ -3,6 +3,7 @@ export default function Meme() {
         <form>
             <input></input>
             <input></input>
+            <button>Get a new meme image</button>
         </form>
     )
 }
